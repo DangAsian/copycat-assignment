@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgb(25, 249, 175)
+
+}
+
+nav {
+  list-style-type: none;
+  float: right;
+
+}
